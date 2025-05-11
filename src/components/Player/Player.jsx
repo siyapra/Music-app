@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import useSound from 'use-sound';
-import music from './music.mp3';
+import music from '../music/music.mp3';
 import {
     AiFillCiCircle,
     AiFillPauseCircle,
